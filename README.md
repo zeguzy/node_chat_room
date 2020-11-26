@@ -17,3 +17,4 @@ npm start
 telnet
 open 127.0.0.1 8888
 ```
+*局域网下运行需要更改config/config.js 中的host*
