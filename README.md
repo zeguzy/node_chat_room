@@ -6,6 +6,7 @@
 
 ```shell
 cd node_chat_room
+npm install
 npm start
 ```
 
